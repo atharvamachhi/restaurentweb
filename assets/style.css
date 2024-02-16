@@ -1,0 +1,121 @@
+.logo_border
+{
+    border-radius: 15px;
+}
+
+.blue_color
+{
+    color: #0D2B4C;
+}
+
+.green_color
+{
+    color: #4DBA2F;
+}
+
+.background_blue
+{
+    background-color: #0D2B4C;
+}
+
+.background_green
+{
+    background-color: #4DBA2F;
+}
+
+.background_green_light
+{
+    background-color: rgba(77, 186, 47, 0.08);
+}
+
+.background_green_dark
+{
+    background-color: rgba(77, 186, 47, 0.15);
+}
+
+.background_green_light_dark
+{
+    background-color: rgba(77, 186, 47, 0.2);
+}
+
+.radius_button
+{
+    border-radius: 40px;
+}
+
+.grey_color
+{
+    color: #E6E6E6;
+}
+
+.background_grey
+{
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+
+.card_style
+{
+    box-shadow: 0 0 45px rgba(6, 6, 6, 0.08);
+}
+
+.card_corner
+{
+    border-radius: 10px;
+}
+
+.card_corner1
+{
+    border-radius: 30px;
+}
+
+.button_hover:hover
+{
+    background-color: black;
+}
+
+.img_class_about
+{
+    position: relative;
+    text-align: center;
+}
+
+.img_class_index
+{
+    position: relative;
+    text-align: center;
+}
+
+.text_on_image_index
+{
+    position: absolute;
+    top: 45%;
+    right: 50%;
+    transform: translate(30%,10%);
+}
+
+.text_on_image_about
+{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2vw;
+    color: #0D2B4C;
+}
+
+.font_4
+{
+    font-size: 3vw;
+    font-weight: 800;
+}
+
+.font_2
+{
+    font-size: 1.5vw;
+}
+
+.font_1
+{
+    font-size: 1vw;
+}
